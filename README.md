@@ -1,5 +1,5 @@
 # InfoGui
-A clean, lightweight in-game HUD for A Township Tale that keeps track of system telemetry and your installed mods.
+A clean, lightweight in-game HUD for A Township Tale that keeps track of game stats and your installed mods.
 
 ### Features
 * **Game info**: Shows smoothed FPS, PC uptime, online player count, and your current chunk coordinates.
