@@ -13,3 +13,7 @@ A clean, lightweight in-game HUD for A Township Tale that keeps track of game st
 1. Make sure you have MelonLoader set up.
 2. Download `InfoGui.dll` from the Releases tab on GitHub.
 3. Put the DLL into your game's `Mods` folder.
+
+<p>
+    <img src="https://img.shields.io/github/downloads/JonathanDonkerlot/InfoGui/total?style=for-the-badge&logo=github&color=7fff6e">
+</p>
